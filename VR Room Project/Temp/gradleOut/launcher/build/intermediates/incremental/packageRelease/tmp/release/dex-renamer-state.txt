@@ -1,0 +1,4 @@
+#Fri Oct 22 11:52:47 HST 2021
+base.0=/Users/msmdev/Desktop/Projects/Unity/vrRoom/VR Room Project/Temp/gradleOut/launcher/build/intermediates/dex/release/mergeDexRelease/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
